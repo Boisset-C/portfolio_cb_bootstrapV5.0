@@ -1,4 +1,15 @@
-/* Nav Styles */
-.custom-bg-blue {
+/* Custom Colors */
+.bg-custom-blue {
   background-color: #649cb3;
+}
+
+.bg-custom-orange {
+  background-color: #b37d64;
+}
+
+/* Nav Styles */
+
+/* Hero Section */
+#hero-section {
+  height: 70vh;
 }
