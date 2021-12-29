@@ -13,3 +13,28 @@
 #hero-section {
   height: 70vh;
 }
+
+/* About Section */
+#about-section {
+  background-color: #b37d64;
+}
+
+/* Hero Section */
+#experience-section {
+  background-color: #649cb3;
+}
+
+/*  Featured Section */
+#featured-section {
+  background-color: #b37d64;
+}
+
+/* Project Section */
+#archive-section {
+  background-color: #649cb3;
+}
+
+/* Contact Section */
+#contact-section {
+  background-color: #b37d64;
+}
